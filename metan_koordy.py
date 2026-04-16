@@ -50,3 +50,5 @@ else:
     plt.axis('off')
     plt.show()
 
+    ############# zmieniam
+
