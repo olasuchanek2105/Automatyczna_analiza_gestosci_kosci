@@ -45,3 +45,8 @@ else:
     plt.title(f"Analiza spektralna metanu\nLokalizacja: {p_lat}, {p_lon}", fontsize=15)
     plt.axis('off')
     plt.show()
+
+    plt.title("Drugi plot")
+    plt.axis('off')
+    plt.show()
+
